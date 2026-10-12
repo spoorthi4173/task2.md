@@ -1,0 +1,4 @@
+Credit score: 700
+Loan amount: 200000
+Result: Loan Eligible
+Model accuracy: 0.9075
